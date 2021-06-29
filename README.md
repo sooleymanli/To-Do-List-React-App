@@ -1,4 +1,4 @@
-# Timeline-For-Education
+# To Do List (React App)
 
 1. #### [Live Demo ](https://fuadsuleymanli.xyz/Demos/todolist) 
 
