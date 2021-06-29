@@ -1,0 +1,73 @@
+
+.language-body{
+    position: absolute;
+   height: 200px;
+    right: 15px;
+    top:15px;
+  
+  }
+  
+  .select-language{
+    background-color: #fff;
+    width: 80px;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0 10px;
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 2px 5px -1px, rgba(255, 255, 255, 0.3) 0px 1px 3px -1px; 
+
+  }
+  
+  .language-name{
+    font-size:20px
+  }
+  
+  .arrow{
+    font-size:20px;
+    
+  }
+  
+  .arrow:hover{
+    cursor: pointer;
+    color:#c03222;
+  }
+
+  .languages{
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: #fff;
+      box-shadow: rgba(255, 255, 255, 0.25) 0px 2px 5px -1px, rgba(255, 255, 255, 0.3) 0px 1px 3px -1px; 
+
+  }
+
+  .languages-new{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 2px 5px -1px, rgba(255, 255, 255, 0.3) 0px 1px 3px -1px; 
+    padding: 5px;
+
+}
+
+
+  .languages-new div{
+      display: block;
+      font-size: 22px;
+      margin-top: 3px;
+    width: 100%;   
+    display: flex;
+    justify-content: center;
+
+     
+  }
+  
+  .languages-new div:hover{
+    background-color: #D83B29;
+    color: #fff;
+    cursor: pointer;
+}
