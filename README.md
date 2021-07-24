@@ -3,7 +3,7 @@
 1. #### [Live Demo ](https://fuadsuleymanli.xyz/Demos/todolist) 
 
 ###
-
+## Screenshot
 ![ScreenShot](screenshot.gif)
 
 
@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
