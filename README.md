@@ -3,7 +3,9 @@
 
 
 ## Live Demo
-1. #### [Live Demo ](https://fuadsuleymanli.xyz/Demos/todolist) 
+1. #### [Live Demo ](https://fuadsuleymanli.com/Demos/todolist) 
+2. #### [Live Demo (Github.io) ](https://sooleymanli.github.io/To-Do-List-React-App/) 
+
 
 ###
 ## Screenshot
